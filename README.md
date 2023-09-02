@@ -5,7 +5,7 @@ This repository contains my solutions to the Google Foobar Challenge.
 *(for each challenge: -text problem file -soution file)*  
 *(constraint file for challenge: [constraints.md](constraints.md))*
 
-<img src="foobar.png" width="600px"/>
+<a href="https://foobar.withgoogle.com/" target="_blank" rel="noopener noreferrer"><img src="foobar.png" width="600px"/><a/>
 
 ## What is Google Foobar?
 The Google Foobar is a secret hiring process that Google uses to identify and recruit developers and programmers from all over the world. The challenge consists of a series of coding challenges that are designed to test your skills and knowledge.
