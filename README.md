@@ -24,4 +24,6 @@ The Google Foobar is a secret hiring process that Google uses to identify and re
   - [The Grandest Staircase Of Them All](level3/the_grandest_staircase_of_them_all) *(Python)*
 - **Level 4**
   - [Distract the Trainers](level4/distract_the_trainers) *(Python)*
-  - [Free the Bunny Workers]() *(Python)* (in progress)
+  - [Free the Bunny Workers](level4/free_the_bunny_workers) *(Python)*
+- **Level 5**
+  - [Dodge the Lasers!]() *(Python)* (in progress)
